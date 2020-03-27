@@ -2,3 +2,4 @@ abc
 
 [func]
 add api
+add api3
